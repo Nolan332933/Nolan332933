@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaung Myat Kywal(Nolan)</h1>
+<h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg">
 
