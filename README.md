@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nolanshelby81@gmail.com**
 
-- ⚡ Fun fact **My favorite hobby is singing but I can't sing properly**
+- ⚡ Fun fact **My favorite hobby is swimming but I can't swim properly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
