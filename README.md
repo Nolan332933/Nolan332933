@@ -1,5 +1,5 @@
-<h1 align="center">I am KaungMyatKywal</h1> 
-<h3 align="center">Senior Frontend Developer from Myanmar</h3>
+<h1 align="center">KaungMyatKywal</h1> 
+<h3 align="center">Frontend Developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolan332933&label=Profile%20views&color=0e75b6&style=flat" alt="nolan332933" /> </p>
 
