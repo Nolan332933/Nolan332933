@@ -1,13 +1,13 @@
-<h1 align="center">Hello! I'm Kaung Myat Kywal</h1> 
-<h3 align="center">Full-stack Developer</h3>
+### Hello, I am Kaung Myat Kywal 
+## Full-stack Developer
+
+ I am a full-stack developer with 3 years of expreience in developing user-friendly and high-performance applications using Angular, React, Next, TypeScript and JavaScript related libraries. I am passionate about leveraging technology to solve problems and create intuitive user experiences. I excel in both front-end and back-end development, ensuring a seamless user experience across all touchpoints. As a dedicated team player, I am always ready to assist others and foster a positive team environment.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolan332933&label=Profile%20views&color=0e75b6&style=flat" alt="nolan332933" /> </p>
 
 - 💬 Ask me about **React, Next, TypeScript**
 
 - 📫 How to reach me **nolanshelby81@gmail.com**
-
-- ⚡ Fun fact **My favorite hobby is swimming but I can't swim properly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
