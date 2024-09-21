@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I am Nolan👋😁</h1>
+<h1 align="center">Hello! I am Nolan👋</h1>
 <h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Building User-friendly Solutions and Helping People⚡️</h3>
 
 ![](./Full%20Stack%20Developer.png)
 
- I am a full-stack developer with 3 years of expreience in developing user-friendly and high-performance applications using React, Next, TypeScript and JavaScript related libraries. I am passionate about leveraging technology to solve problems and create intuitive user experiences. I excel in both front-end and back-end development, ensuring a seamless user experience across all touchpoints. As a dedicated team player, I am always ready to assist others and foster a positive team environment.
+ I own 3+years of experience in web and mobile dev building user-friendly solutions, I.e., creating customized and responsive web and mobile applications. As a meticulous full-stack Developer, I always stay focused on latest technologies. Known for the ability of hard-work and engaging in multiple undertakings simultaneously, meeting deadlines and giving 110%. Now, how may I help you?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolan332933&label=Profile%20views&color=0e75b6&style=flat" alt="nolan332933" /> </p>
 
