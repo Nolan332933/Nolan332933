@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am Nolan👋😁</h1>
-<h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Helping People and Building User-friendly Solutions⚡️</h3>
+<h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Building User-friendly Solutions and Helping People⚡️</h3>
 
 ![](./Full%20Stack%20Developer.png)
 
