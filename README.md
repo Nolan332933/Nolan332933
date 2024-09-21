@@ -1,5 +1,7 @@
-### Hi! I am Nolan👋😁
-##Extremely Meticulous Full-stack Developer Who's Passionate about Helping People and Building User-friendly Solutions⚡️
+<h1 align="center">Hi! I am Nolan👋😁</h1>
+<h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Helping People and Building User-friendly Solutions⚡️</h3>
+
+![](./Full%20Stack%20Developer.png)
 
  I am a full-stack developer with 3 years of expreience in developing user-friendly and high-performance applications using React, Next, TypeScript and JavaScript related libraries. I am passionate about leveraging technology to solve problems and create intuitive user experiences. I excel in both front-end and back-end development, ensuring a seamless user experience across all touchpoints. As a dedicated team player, I am always ready to assist others and foster a positive team environment.
 
