@@ -3,7 +3,7 @@
 
 ![](./Full%20Stack%20Developer.png)
 
- I own 3+years of experience in web and mobile dev building user-friendly solutions, I.e., creating customized and responsive web and mobile applications. As a meticulous full-stack Developer, I always stay focused on latest technologies. Known for the ability of hard-work and engaging in multiple undertakings simultaneously, meeting deadlines and giving 110%. Now, how may I help you?
+ I own 3+years of experience in web and mobile dev building user-friendly solutions, I.e., creating customized and responsive web and mobile applications. As a detail-oriented full-stack developer, I consistently stay up to date with the latest technologies to enhance my expertise and contribute effectively to the team I work with. Known for the ability of hard-work and engaging in multiple undertakings simultaneously, meeting deadlines and giving 110%. Now, how may I help you?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nolan332933&label=Profile%20views&color=0e75b6&style=flat" alt="nolan332933" /> </p>
 
