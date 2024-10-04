@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Nolan👋</h1>
 <h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Building User-friendly Solutions and Helping People⚡️</h3>
 
-![](./Full%20Stack%20Developer1.png)
+![](./Full%20Stack%20Developer2.png)
 
  I own 3+years of experience in web and mobile dev building user-friendly solutions, I.e., creating customized and responsive web and mobile applications. As a detail-oriented full-stack developer, I consistently stay up to date with the latest technologies to enhance my expertise and contribute effectively to the team I work with. Known for the ability of hard-work and engaging in multiple undertakings simultaneously, meeting deadlines and giving 110%. Now, how may I help you?
 
