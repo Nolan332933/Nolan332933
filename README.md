@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Kaung Myat Kywal👋 But you can call me "Nolan"!</h1>
+<h1 align="center">Hi! I am Kaung Myat Kywal👋 But you can call me "Nolan"</h1>
 <h3 align="center">Extremely Meticulous Full-stack Developer Who's Passionate about Building User-friendly Solutions and Helping People⚡️</h3>
 
 ![](./Full%20Stack%20Developer2.png)
